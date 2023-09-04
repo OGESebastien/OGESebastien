@@ -1,6 +1,4 @@
 ### Hello world👋
-
-<!--
 Je suis étudiant à Epitech Technology à Strasbourg 👨‍🎓
 
 Actuellement à la recherche d'une alternance pour janvier 2024. 📚
@@ -13,4 +11,5 @@ A côté de cela, je suis sportif ce qui m'a permis de jouer plusieurs années d
 Je suis rigoureux et déterminé, ainsi avec la maturité acquise durant des années, je m'imposerai une rigueur dans mon apprentissage.
 
 Je suis à l'écoute pour des échanges constructifs qui me permettrait d'améliorer mes compétences.
--->
+
+
