@@ -12,5 +12,4 @@ Grâce à ma rigueur et ma détermination, j'ai acquis au fil des années une ma
 
 Je suis à l'écoute pour des échanges constructifs qui me permettrait d'améliorer mes compétences.
 
-#GH-LIGHT-MODE-ONLY
-#GH-DARK-MODE-ONLY
+
